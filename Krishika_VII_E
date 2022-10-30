@@ -1,0 +1,40 @@
+<html>
+<head>
+    <title>Festivals of India</title>
+</head>
+<body bgcolor="yellow">
+<center>
+<u><h1> Festivals of India </h1></u>
+<a href="#diwali">Diwali</a>
+<a href="#holi">Holi</a>
+<a href="#Ra">Raksha Bandhan</a>
+<a href="#lohri">Lohri</a>
+<a href="#dus">Dussehra</a>
+<a name="diwali">
+        <h1>Diwali</h1>
+        <img src="https://static.toiimg.com/photo/msid-66475760/66475760.jpg" height=300 width=600>
+<h3>Diwali is known as the Festival of Lights. It is also called Deepawali, which means a string of earthen lamps. Diwali is celebrated to mark the day Lord Ram returned to Ayodhya after 14 years of exile, after defeating Ravana.</h3>
+</a>
+<br>
+<a name="holi">
+<h1>Holi</h1>
+        <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/03/holi-1583485335.jpg" height=300 width=600>
+<h3> Holi is one of the most joyous festivals celebrated in India. People gather in extensive grounds apply color on each other. It is a festival celebrated in March every year. People celebrate Holi with the same happiness and joyful spirit that they celebrate Diwali.</h3>
+<br>
+<a name="Ra">
+<h1>Raksha Bandhan</h1>
+        <img src="https://akm-img-a-in.tosshub.com/aajtak/images/story/202208/raksha_bandhan_getty_11-sixteen_nine.jpg?size=1200:675" height=300 width=600>
+<h3> The festival of Raksha Bandhan is celebrated between brothers and sisters. The reason for celebrating Raksha Bandhan is to protect the bond of love, happiness, and care between brothers and sisters. Sisters tie rakhi to the wrist of their brothers and pray for the welfare of their brothers.</h3>
+<br>
+<a name="lohri">
+<h1>Lohri</h1>
+        <img src="https://english.cdn.zeenews.com/sites/default/files/2022/01/12/1004725-lohri.png" height=300 width=600>
+<h3> The Lohri festival is celebrated to mark the end of the winter season. It is also called the harvest festival, where people create a bonfire and dance around it to celebrate the harvest of crops. Being a festival that brings together friends and family, Lohri holds a special place in the hearts of the people in Punjab.</h3>
+<br>
+<a name="dus">
+<h1>Dussehra</h1>
+        <img src="https://i.pinimg.com/originals/a5/16/d1/a516d1980343dd723fe75eaa72739176.gif" height=300 width=600>
+<h3> The effigies of Ravana, Meghnath, and Kumbhakarna are then burned. Dussehra festival is celebrated to remember Lord Rama's triumph over Ravan. It also commemorates Goddess Durga's triumph over Mahishasur in defending the world from him. On the day of the festival, people burn effigies of Ravana.</h3>
+</center>
+</body>
+</html>
